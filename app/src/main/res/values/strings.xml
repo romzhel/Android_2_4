@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="open">Open</string>
+    <string name="save">Save as default</string>
+    <string name="input_promt">Input URL</string>
+    <string name="invalid_URL">Invalid URL</string>
+    <string name="home_page">http://geekbrains.ru</string>
 </resources>
